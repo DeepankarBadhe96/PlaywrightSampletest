@@ -1,2 +1,2 @@
 # PlaywrightSampletest
-Playwright practice code
+Playwright practice code for testing
